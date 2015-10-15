@@ -1,0 +1,154 @@
+Hopital 
+	- Infirmiere
+	- Patient
+	- Therapiste
+	- Chirurgien
+	- Docteur 
+	- Concierge
+
+Bateau Pirate
+
+	- Marin
+	- Cannonier
+	- Esclave
+	- Cuisinier
+	- Capitaine
+	- Perroquet
+
+Sous Marin
+
+	- Operateur Radio
+	- Cuisinier
+	- Navigateur
+	- Marin
+	- Commandant de Bord
+	- Operateur Sonar
+
+Poste de Police
+
+	- Criminologue
+	- Policier
+	- Inspecteur
+	- Criminel
+	- Journaliste
+	- Avocat
+
+Casino
+
+	- Gardien de Sécurité
+	- Directeur
+	- Joueur
+	- Barmaid
+	- Croupier
+	- Gold Digger
+
+Station Artique
+
+	- Meteorologue
+	- Medic
+	- Chef d'Expedition
+	- Biologiste
+	- Geologiste
+	- Guide Inuit
+
+Ruelle
+
+	- Prostitué
+	- Dealer de Drogue
+	- Itinérant
+	- Danseuse
+	- Voleur 
+	- Vidangeur 
+
+Station Spaciale
+
+	- Astronaute
+	- Alien
+	- Ingenieur
+	- Employé de la NASA 
+	- Commandant
+	- Pilote
+
+Prison
+
+	- Gardien de Sécurité
+	- Prisonnier
+	- Directeur
+	- Cuistot
+	- Badass
+	- 
+
+Banque
+	
+	- Client
+	- Directeur
+	- Consultant
+	- Voleur
+	- Gardien de Sécurité
+	- Chauffeur de Blindé
+
+Eglise
+
+	- Pretre
+	- Enfant de Choeur
+	- Allumeur de cierge
+	- Pape
+	- Croyant
+	- Joueur d'orgue
+
+Station Service
+
+	- Chauffeur
+	- Operateur Lave Auto
+	- Electricien
+	- Motard
+	- Directeur
+	- Mecanicien
+
+Cirque
+
+	- Visiteur
+	- Acrobate
+	- Clown
+	- Dresseur de Lion
+	- Jongleur
+	- Magicien
+
+Ecole 
+
+	- Professeur
+	- Etudiant
+	- Secretaire
+	- Directeur
+	- Orienteur
+	- Surveillant
+
+Base Militaire
+
+	- Sniper
+	- Caporal
+	- Officier
+	- Pilote
+	- Soldat
+	- Ingenieur de Tank
+
+Chateau Medieval
+
+	- Roi
+	- Forgeron
+	- Bourreau
+	- Chevalier
+	- Bouffon
+	- Princesse
+
+
+
+
+
+
+
+
+
+
+
+
